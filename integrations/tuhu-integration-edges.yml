@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/tuhu/integrations
+- https://n8n.io/integrations/tuhu/
+- https://composio.dev/toolkits/tuhu
+- https://monid.ai/tools/tuhu
+checked:
+- https://composio.dev/toolkits/tuhu
+- https://monid.ai/tools/tuhu
+- https://n8n.io/integrations/tuhu/
+- https://zapier.com/apps/tuhu/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
